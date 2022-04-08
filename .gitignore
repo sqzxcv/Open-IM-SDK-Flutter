@@ -2,3 +2,4 @@
 #/.packages
 #/.dart_tool
 #/example/ios/Podfile.lock
+.DS_Store
